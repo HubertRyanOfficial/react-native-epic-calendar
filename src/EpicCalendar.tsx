@@ -9,7 +9,7 @@ import {
   ViewStyle,
   Alert,
 } from "react-native";
-import HeaderContainer from "./HeaderContainer/inde";
+import HeaderContainer from "./HeaderContainer";
 
 // * components
 
