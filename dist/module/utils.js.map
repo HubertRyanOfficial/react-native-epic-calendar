@@ -1,0 +1,1 @@
+{"version":3,"sources":["utils.ts"],"names":["primary","secundary","lightPink"],"mappings":"AAAA,eAAe;AACbA,EAAAA,OAAO,EAAE,SADI;AAEbC,EAAAA,SAAS,EAAE,SAFE;AAGbC,EAAAA,SAAS,EAAE;AAHE,CAAf","sourcesContent":["export default {\r\n  primary: '#FC0E94',\r\n  secundary: '#D360FC',\r\n  lightPink: '#FFAAFF',\r\n};\r\n"]}
