@@ -11,3 +11,5 @@
 # React Native Epic Calendar
 
 A react native library to make beatiful calendars in your app.
+
+> Important: This library doesn't ready for production use!
