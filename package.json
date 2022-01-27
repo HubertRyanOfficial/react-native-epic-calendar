@@ -4,9 +4,7 @@
   "description": "A react native library to make beatiful calendars in your app.",
   "author": "Hubert Ryan",
   "license": "MIT",
-  "repository": {
-    "url": "https://github.com/HubertRyanOfficial/react-native-epiccalendar"
-  },
+  "repository": "https://github.com/HubertRyanOfficial/react-native-epic-calendar",
   "scripts": {
     "prepare": "bob build"
   },
