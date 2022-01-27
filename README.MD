@@ -12,4 +12,10 @@
 
 A react native library to make beatiful calendars in your app.
 
+```sh
+
+$ yarn add react-native-epic-calendar
+
+```
+
 > Important: This library doesn't ready for production use yet!
